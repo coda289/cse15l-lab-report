@@ -7,10 +7,10 @@
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KnNu46povUcwKNf8fGiljnFfnD20nwYHd1r44JUikA&s)
 > my pets
 
-*jimmy
-*joker
-*penny
-*lucy
+* jimmy
+* joker
+* penny
+* lucy
 
 > my favortie foods
 1. sushi
