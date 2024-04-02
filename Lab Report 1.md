@@ -12,6 +12,7 @@ dakot@DESKTOP-2TDL2AN MINGW64 ~
 Because I had no arguements there was no output but the directory changed to my directory.
 
 It is not an error because the code has no output and executed correctly
+
 2. path to directory
 ```
 dakot@DESKTOP-2TDL2AN MINGW64 ~
