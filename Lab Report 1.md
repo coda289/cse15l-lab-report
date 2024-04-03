@@ -38,7 +38,7 @@
 
    This is an error because cd is to change to a different directiry and it is expecting a directory and not a file. It provides the erroe message `bash: cd: Hello.java: Not a directory`
 
-##`ls` examples
+## `ls` examples
 1. **no arguements**
    ```
    dakot@DESKTOP-2TDL2AN MINGW64 ~/lecture1 (main)
