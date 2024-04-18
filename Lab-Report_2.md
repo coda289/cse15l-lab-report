@@ -21,7 +21,7 @@ and the fields and local variables are
 There is only one field, messagages, and the rest are local variables. SO the only thing that gets changes is the String messages and it gets updates to add a new message on a new line in the format  "<user>: <string>"
 
 ### Example 2
-<img width="510" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/e3281916-70b7-479d-ae09-011276631188">
+<img width="510" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/e3281916-70b7-479d-ae09-011276631188">\
 the method that is run is `handleRequest(URI url)` which also calls:
 - `getPath()`
 - `equals()`
