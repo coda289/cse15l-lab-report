@@ -1,8 +1,14 @@
 # Lab Report 3
 ## Part 1
+### Code for ChatServer\
+<img width="464" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/78a2641c-af6f-4921-a041-8bd7c2de9ca1">
+<img width="735" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/f4177859-7d19-4a2a-a564-0f0da326d62b">
+
+### Example 1
+
 
 ## Part 2
-My computer\
+### My computer\
 <img width="358" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/b6fea873-8bc6-4435-8ef4-0f7fd31fae7a">
 
 ieng6 machine\
