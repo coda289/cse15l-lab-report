@@ -13,5 +13,4 @@ no password\
 
 
 ## Part 3
-
-
+In labs 2 and 3 I learned a lot more about websites, inlcuding hosting them and url. Before this class I never realized you could write a program that can look at the url as an input and get different parameters to run in methods. I also learned that I can locally host a website on my computer and it will update when I give it a new path, or I could run it on the ieng6 machine and anyone on ucsd wifi can access it. 
