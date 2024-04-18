@@ -27,7 +27,7 @@ the method that is run is `handleRequest(URI url)` which also calls:
 - `equals()`
 - `format()`
 - `getQuery`
-- `split()`
+- `split()`\
 The argument is http://localhost:3030/add-message?s=Hi%20I%20go%20to%20UCSD&user=ToweringTriton
 and the fields and local variables are
 - messages="WistfulWillow: Hello! What college do you go to '\n' ToweringTriton: Hi I go to UCSD"
