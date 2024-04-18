@@ -11,7 +11,7 @@ the method that is run is `handleRequest(URI url)` which also calls:
 - `equals()`
 - `format()`
 - `getQuery`
-- `split()`
+- `split()`\
 The argument is http://localhost:3030/add-message?s=Hello!%20What%20college%20do%20you%20go%20to&user=WistfulWillow as url
 and the fields and local variables are
 - String messages="WistfulWillow: Hello! What college do you go to"
