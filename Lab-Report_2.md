@@ -6,7 +6,8 @@
 
 ### Example 1
 <img width="635" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/9957886f-957f-4c0b-b22d-30cef47991ce">
-the method that is run is ` handleRequest `
+the method that is run is `handleRequest`
+At the command prompt, type `nano`.	
 
 
 
