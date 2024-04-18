@@ -1,4 +1,4 @@
-# Lab Report 3
+# Lab Report 2
 ## Part 1
 ### Code for ChatServer
 <img width="464" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/78a2641c-af6f-4921-a041-8bd7c2de9ca1">
