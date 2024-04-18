@@ -1,20 +1,23 @@
 # Lab Report 3
 ## Part 1
-### Code for ChatServer\
+### Code for ChatServer
 <img width="464" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/78a2641c-af6f-4921-a041-8bd7c2de9ca1">
 <img width="735" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/f4177859-7d19-4a2a-a564-0f0da326d62b">
 
 ### Example 1
+<img width="635" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/9957886f-957f-4c0b-b22d-30cef47991ce">
+the method that is run is ` handleRequest `
+
 
 
 ## Part 2
-### My computer\
+### My computer
 <img width="358" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/b6fea873-8bc6-4435-8ef4-0f7fd31fae7a">
 
-ieng6 machine\
+### ieng6 machine
 <img width="435" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/41d63a9b-cb0b-469d-bd5d-627f2fe41772">
 
-no password\
+### no password
 <img width="651" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/019aea7f-91b7-4565-b55b-032e8041f3e5">
 
 
