@@ -42,7 +42,8 @@ Similarly the only field that was changed not temporarily is messages now it inc
 <img width="358" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/b6fea873-8bc6-4435-8ef4-0f7fd31fae7a">
 
 ### ieng6 machine
-<img width="435" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/41d63a9b-cb0b-469d-bd5d-627f2fe41772">
+<img width="337" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/a03cfe1c-764a-4691-9a54-23b007d78ee5">
+
 
 ### no password
 <img width="651" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/019aea7f-91b7-4565-b55b-032e8041f3e5">
