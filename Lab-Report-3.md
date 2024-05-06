@@ -115,9 +115,13 @@ This helps when I want to move multiple files at once. It would take a lot longe
 dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical   
 $ find ./911report/ -name "*2.txt" -ls >> findexamples.txt
 ```
+
 This can help me run commands when I know the file name but do not know the path. I can also copy multiple files to the same file wusing this command. 
 ```
 dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical
 $ find -name 5_Legal_Groups.txt -exec cp {} ./copy.txt \;
 ```
 
+I used https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/ to find all the commands 
+How to Search Files Effectively in the Linux Terminal. (2023, February 9). 
+  FreeCodeCamp.org. https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/
