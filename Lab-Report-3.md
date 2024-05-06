@@ -56,8 +56,8 @@ After
 ```
 5. Before the code would check the list starting at element 0 and increasing, but it would add the elements to the front of the list resulting in an incorrect order. I changed it by using `.add()` with no index so it would add to the end of the list and stay in correct order.
 ## Part 2
-`find`
-`-name`
+`find` \
+`-name` \
 This will help you find the path of a specific file if you cant even remember what directory it is in. 
 ```
 dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical   
@@ -70,7 +70,7 @@ dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical
 $ find -name plos
 ./plos
 ```
-`-type`
+`-type` \
 This helps you find all the directories within a directory. This can be helpful when you dont have a tool like vs code to help you look at them. 
 ```
 $ find -type d
@@ -95,7 +95,7 @@ $ find ./government/Alcohol_Problems/ -type f
 ./government/Alcohol_Problems/Session3-PDF.txt
 ./government/Alcohol_Problems/Session4-PDF.txt
 ```
-`-ls`
+`-ls` \
 If you want more information about the files you can use `-ls` this can help when theres files with similar names and you cant remember which one you just edited. 
 ```
 dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical   
@@ -109,4 +109,15 @@ You can also list informtion about files in a new text file for future reference
 dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical   
 $ find ./911report/ -name "*2.txt" -ls >> findexamples.txt
 ```
-`
+`-exec` \
+This helps when I want to move multiple files at once. It would take a lot longer to do it one by one. 
+```
+dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical   
+$ find ./911report/ -name "*2.txt" -ls >> findexamples.txt
+```
+This can help me run commands when I know the file name but do not know the path. I can also copy multiple files to the same file wusing this command. 
+```
+dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical
+$ find -name 5_Legal_Groups.txt -exec cp {} ./copy.txt \;
+```
+
