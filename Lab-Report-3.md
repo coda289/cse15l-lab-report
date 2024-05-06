@@ -28,7 +28,7 @@ class check implements StringChecker{
     }
 ```
 3. 
-<img width="917" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/c5f61195-ae24-44cb-b440-86cdbfc05b40">\n
+<img width="917" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/c5f61195-ae24-44cb-b440-86cdbfc05b40"> \n
 4. Before
 ```
    static List<String> filter(List<String> list, StringChecker sc) {
