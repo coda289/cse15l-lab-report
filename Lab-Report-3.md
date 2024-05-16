@@ -54,7 +54,7 @@ After
     return result;
   }
 ```
-5. Before the code would check the list starting at element 0 and increasing, but it would add the elements to the front of the list resulting in an incorrect order. I changed it by using `.add()` with no index so it would add to the end of the list and stay in correct order.
+5. Before the code would check the list starting at element 0 and increasing, but it would add the elements to the front of the list resulting in an incorrect order. I changed it by using `.add()` with no index so it would add to the end of the list and stay in correct order. The failure inducting input resulted in an array that was backwards because it first added "hello" to index 0 and then added "enter" to index z0 making "hello" go to index 1. So the result of that is "enter,hello". Now the code adds "hello" to the end of the array. In an empty array the end is the same as the beggining so it is added to index 0. Then enter is added to the next available index which is now index one resulting in "hello, enter"
 ## Part 2
 `find` \
 `-name` \
@@ -110,10 +110,10 @@ dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical
 $ find ./911report/ -name "*2.txt" -ls >> findexamples.txt
 ```
 `-exec` \
-This helps when I want to move multiple files at once. It would take a lot longer to do it one by one. 
+This helps when I want to move multiple files at once. It would take a lot longer to do it one by one. Thos moved all of the files that started with chapter in to a temporary location with one command. 
 ```
-dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical   
-$ find ./911report/ -name "*2.txt" -ls >> findexamples.txt
+dakot@DESKTOP-2TDL2AN MINGW64 ~/Downloads/docsearch-main/technical
+$ find -name "chapter*" -exec mv {} ./templocation/ \;
 ```
 
 This can help me run commands when I know the file name but do not know the path. I can also copy multiple files to the same file wusing this command. 
