@@ -9,9 +9,19 @@
 3. git is saying that it is a git command. clone is cloning a repository onto the ieng6 machine. and the url is the url of the repository i am cloning
 ## Step 6
 1. <img width="499" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/86a6650b-fd5c-4407-8d66-084f1c969dfe">
-2. cd <space> l <tab> <enter> bash <space> t <tab>
-3. cd changes directories and lab7 is the directory i want to change into then enter to change into it. then bash runs a script so run multiple lines of code at once and test.sh is a script that compiles and runs  and runs the junit tests.
-
-
-
-
+2. cd <space> l <tab> <enter>
+   bash <space> t <tab>
+4. cd changes directories and lab7 is the directory i want to change into then enter to change into it. then bash runs a script so run multiple lines of code at once and test.sh is a script that compiles and runs  and runs the junit tests.
+## Step 7
+1.<img width="402" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/929b6206-4de0-4404-b1d6-64273b275ca7">
+2. vim <space> Li <tab> . <tab> <enter>
+<down>x44 w w <left>x2 r2 :wq <enter>
+3. ex
+## Step 8
+1. <img width="342" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/920c25d5-4b66-4b04-aa25-fbe595519ef1">
+2. <up> <up> <enter>
+3. ex
+## Step 9
+1. 
+2. 
+3. 
