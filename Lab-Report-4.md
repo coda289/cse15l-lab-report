@@ -13,7 +13,7 @@
    bash <space> t <tab>
 4. cd changes directories and lab7 is the directory i want to change into then enter to change into it. then bash runs a script so run multiple lines of code at once and test.sh is a script that compiles and runs and runs the junit tests. i used tab so i didnt have to type the whole name of the file/directory and instead let the computer complete it. 
 ## Step 7
-1.<img width="402" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/929b6206-4de0-4404-b1d6-64273b275ca7"> /
+1.<img width="402" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/929b6206-4de0-4404-b1d6-64273b275ca7"> \
 2. vim <space> Li <tab> . <tab> <enter>
 <down>x44 w w <left>x2 r2 :wq <enter>
 3. vim with a file, here i typed the first letters and filled it in with tab, will open up a file in vim editor when I hot enter. Then i held the down arrow until I got to the line i wanted to change. then i hit w twice to get to the start of the word after the one i wanted to chnage. the i hit the left arrow to get to the charcater i wanted to change. then i hit r for replace and 2 as the thing i wanted to replace it with. then :wq after you hit enter saves and exits the vim editor. 
