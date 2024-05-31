@@ -16,7 +16,7 @@
 1.<img width="402" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/929b6206-4de0-4404-b1d6-64273b275ca7"> \
 2. `vim <space> Li <tab> . <tab> <enter>`
 `<down>x44 w w <left>x2 r2 :wq <enter>`
-3. `vim` with a file, here i typed the first letters and filled it in with tab, will open up a file in vim editor when I hit enter. Then i held the down arrow until I got to the line i wanted to change. then i hit `w` twice to get to the start of the word after the one i wanted to chnage. the i hit the left arrow to get to the charcater i wanted to change. then i hit `r` for replace and 2 as the thing i wanted to replace it with. then `:wq` after you hit enter saves and exits the `vim` editor. 
+3. `vim` with a file, here i typed the first letters and filled it in with tab, will open up a file in `vim` editor when I hit enter. Then i held the down arrow until I got to the line i wanted to change. then i hit `w` twice to get to the start of the word after the one i wanted to chnage. the i hit the left arrow to get to the charcater i wanted to change. then i hit `r` for replace and 2 as the thing i wanted to replace it with. then `:wq` after you hit enter saves and exits the `vim` editor. 
 ## Step 8
 1. <img width="342" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/920c25d5-4b66-4b04-aa25-fbe595519ef1">
 2. `<up>` `<up>` `<enter>`
