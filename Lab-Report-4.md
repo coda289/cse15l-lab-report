@@ -23,9 +23,10 @@
 3. hitting the up arrow once brings you to the last command you ran. hitting it again brings you to the one before that, for me that was the correct command. and after i reached the correct command i hit enter and it is the same file ran with `bash` to run the junit tests. 
 ## Step 9
 1. <img width="410" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/248d73f3-470e-4ae2-b1a6-7526fecd856c"> \
+
 2.` git <space> add <space> . <enter>` \
 `git <space> com<tab> -m <space> "fix <space> index" <enter>` \
-`git <space> push <space> o<tab> m<tab> <enter>` \
+`git <space> push <space> o<tab> m<tab> <enter>` 
 3. `git add .` this will add the files to the repository and the period serves as a wildcard \
    the next line it to commit your changes and lock them into place in addition to adding a message that wil go along with the changes. I chose fix index because that is what i did. \
    the next line pushes the actual changes onto git hub.
