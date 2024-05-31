@@ -26,7 +26,7 @@
 
 2.` git <space> add <space> . <enter>` \
 `git <space> com<tab> -m <space> "fix <space> index" <enter>` \
-`git <space> push <space> o<tab> m<tab> <enter>` 
+`git <space> push <space> o<tab> m<tab> <enter>` \
 3. `git add .` this will add the files to the repository and the period serves as a wildcard \
    the next line it to commit your changes and lock them into place in addition to adding a message that wil go along with the changes. I chose fix index because that is what i did. \
    the next line pushes the actual changes onto git hub.
