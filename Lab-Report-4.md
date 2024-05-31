@@ -24,7 +24,7 @@
 ## Step 9
 <img width="410" alt="image" src="https://github.com/coda289/cse15l-lab-report/assets/148298382/248d73f3-470e-4ae2-b1a6-7526fecd856c"> \
 
-* ` git <space> add <space> . <enter>` 
+* `git <space> add <space> . <enter>` 
 * `git <space> com<tab> -m <space> "fix <space> index" <enter>` \
 * `git <space> push <space> o<tab> m<tab> <enter>` \
 * `git add .` this will add the files to the repository and the period serves as a wildcard \
